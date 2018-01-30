@@ -1,0 +1,21 @@
+#h2{
+	color: white;
+	font-family: cursive;
+	font-size: 50px;
+
+}
+.butto{
+	position: absolute;
+	left: 550px;
+	top:300px;
+	background: #fff;
+	border: none;
+
+
+}
+
+body{
+	width: 100%;
+	height:auto;
+	background: url(pic.jpg) no-repeat;
+}
